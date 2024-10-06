@@ -10,7 +10,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )](mailto:gustavogomes.bsb68@gmail.com)
 
-![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-gustavogs&show_icons=true&theme=merko)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-gustavogs&layout=compact)
 
 ## Tecnologias que utilizo e domino:
