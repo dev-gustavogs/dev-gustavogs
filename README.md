@@ -8,7 +8,7 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white
 )](https://www.kaggle.com/gustavogss)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-)](gustavogomes.bsb68@gmail.com)
+)](mailto:gustavogomes.bsb68@gmail.com)
 
 ![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-gustavogs&show_icons=true&theme=merko)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-gustavogs&layout=compact)
