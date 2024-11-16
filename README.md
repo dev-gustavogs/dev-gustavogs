@@ -12,7 +12,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )](mailto:gustavogomes.bsb68@gmail.com)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-gustavogs&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact)
 
 ## Tecnologias que utilizo e domino:
 <div style="display: inline_block"></br>
